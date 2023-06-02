@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Luca, and these are my repositories.
+### I'm Luca, and these are my repositories.
 
 I work as a PhD student at the [University of Turin](https://www.unito.it/), Italy in the Complex Systems for Life Sciences program.
 I'm a bioinformatician, working with everything genomic and transcriptomic related.
