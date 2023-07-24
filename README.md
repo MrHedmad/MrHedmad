@@ -31,20 +31,4 @@ All my contact information live in [my linktree](https://linktr.ee/mrhedmad). I 
 </picture>
 </a>
 
----
-### My stats
-<a href="https://github.com/MrHedmad?tab=repositories">
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=MrHedmad&show_icons=true&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=MrHedmad&show_icons=true&theme=github_light"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-   <img  align="center">
-</picture>
-</a>
-
-Stats are provided by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/tree/master).
+This display is provided by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/tree/master).
