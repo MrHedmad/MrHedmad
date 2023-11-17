@@ -1,0 +1,29 @@
+[general]
+ignore = B6
+
+[title-max-length]
+line-length=100
+
+[title-match-regex]
+regex=^(?:feat|new|adj|fix|ref|docs|test|ci|style|perf)(\(.*?\))?!?:
+
+# Some explaination and guide on the `conventional commits` types that I
+# use.
+#
+# - `new` : When there is a **completely new** addition to the codebase.
+#           a new file, a new module, a new function, anything new.
+#           A synonym for this is `feat`, but I prefer `new`.
+# - `edit`: Edit something. This is the controversial one: what does it mean to
+#           'edit' something? I used to constanly have to label everything as
+#           'feat' even though most of my changes are just that - changes.
+#           A computation is switched out for another (not a fix, not a feat...),
+#           
+# - `fix` : Something was not working, it is (hopefully) working now.
+# - `ref` : Refactoring. Nothing functional has changed, just the structure of
+#           the code, the folder structure or the code style.
+# - `docs`: Something in the documentation changed, such as the README.
+# - `test`: Additions, removals or changes in the testing of the software.
+# - `ci`  : Stuff regarding Continuous Integration or chores to run CI, or
+#           changes to version numbers or other chores.
+# - `perf`: The code runs faster now. Zoom zoom.
+
