@@ -7,8 +7,7 @@ line-length=100
 [title-match-regex]
 regex=^(?:feat|new|adj|fix|ref|docs|test|ci|style|perf)(\(.*?\))?!?:
 
-# Some explaination and guide on the `conventional commits` types that I
-# use.
+# Some explaination and guide on the `conventional commits` types that I use.
 #
 # - `new` : When there is a **completely new** addition to the codebase.
 #           a new file, a new module, a new function, anything new.
@@ -17,7 +16,6 @@ regex=^(?:feat|new|adj|fix|ref|docs|test|ci|style|perf)(\(.*?\))?!?:
 #           'edit' something? I used to constanly have to label everything as
 #           'feat' even though most of my changes are just that - changes.
 #           A computation is switched out for another (not a fix, not a feat...),
-#           
 # - `fix` : Something was not working, it is (hopefully) working now.
 # - `ref` : Refactoring. Nothing functional has changed, just the structure of
 #           the code, the folder structure or the code style.
@@ -26,4 +24,3 @@ regex=^(?:feat|new|adj|fix|ref|docs|test|ci|style|perf)(\(.*?\))?!?:
 # - `ci`  : Stuff regarding Continuous Integration or chores to run CI, or
 #           changes to version numbers or other chores.
 # - `perf`: The code runs faster now. Zoom zoom.
-
