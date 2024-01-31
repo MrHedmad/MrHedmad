@@ -3,7 +3,7 @@
 I work as a PhD student at the [University of Turin](https://www.unito.it/), Italy in the Complex Systems for Life Sciences program.
 I'm a bioinformatician, working with everything genomic and transcriptomic related.
 
-I'm an author and the maintainer for (almost) all packages in [my laboratory's organization](https://github.com/CMA-Lab).
+I'm an author and the maintainer for (almost) all packages in [my laboratory's organization](https://github.com/TCP-Lab).
 
 If you want to learn more about me, take a look at [my ABOUT page](https://mrhedmad.github.io/blog/about/).
 It contains more information on what I do, as well as my Curriculum Vitae and publication lists.
@@ -18,7 +18,7 @@ All my contact information lives in [my linktree](https://linktr.ee/mrhedmad). I
 
 ### 🛠️ Currently working on
 
-<a href="https://github.com/CMA-Lab/MTP-DB">
+<a href="https://github.com/MrHedmad/kerblam">
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/pin?username=MrHedmad&repo=kerblam&theme=github_dark"
