@@ -41,19 +41,18 @@ I look at this when I want to feel good about myself.
 ### 📦 Libraries
 - [Bonsai](https://github.com/MrHedmad/bonsai) a Python library to handle Tree like data structures. It's very easy to use.
 
-### Data analyses
+### 🔬 Data analyses
 - 🚧 [Transportome Profiler](https://github.com/TCP-Lab/transportome_profiler), the main analysis of my PhD thesis. 
 - 🚧 [Data analysis project structure](https://github.com/MrHedmad/ds_project_structure): an analysis on the structure of data analysis projects.
 - [Turin author network](https://github.com/MrHedmad/turin-author-network): an analysis of the co-authorship network between the authors of the university of Turin.
 - [Code used in my Master thesis](https://github.com/MrHedmad/master-thesis).
 
-### Papers
+### 📝 Papers and preprints
 - A [Typst paper template](https://github.com/MrHedmad/typst-paper) to jumpstart paper writing in Typst.
 - A [Latex paper template](https://github.com/MrHedmad/author-manuscript) to jumpstart paper writing in Latex. 
 - 🚧 [Code of the paper for Kerblam!](https://github.com/MrHedmad/kerblam-paper)
 
-### Others
+### 🛸 Others
 - [My dotfiles](https://github.com/MrHedmad/dotfiles)
 - [Milton](https://github.com/MrHedmad/Milton): my Discord bot.
 - 💀 [Chip 8 implementation](https://github.com/MrHedmad/Chip8) in Rust (which does not *really* work).
-- 
