@@ -29,7 +29,6 @@ I look at this when I want to feel good about myself.
 
 ### 📖 Resources
 - 🚧 The [Data Stewardship Knowledgebase](https://github.com/MrHedmad/data-stewardship-knowledgebase): an aggregator of links related to data stewardship, open science and data management in general.
-- 💀 The [Handbook](https://github.com/MrHedmad/Handbook) was meant to be the place to go to when looking for code style guides, how-tos and more.
 - 🚧 [Mimir](https://github.com/MrHedmad/mimir): a policy to handle data for a research group with little resources in a FAIR way.
 - [A tiny guide to Make](https://github.com/MrHedmad/make_in_short), which converts to [this website](https://mrhedmad.github.io/make_in_short).
 - [The code for my blog](https://github.com/MrHedmad/blog), which you can read [here](https://mrhedmad.github.io/blog/).
