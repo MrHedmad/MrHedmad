@@ -1,7 +1,9 @@
-### I'm Luca, and these are my repositories.
+### Hello - I'm Luca
 
-I work as a PhD student at the [University of Turin](https://www.unito.it/), Italy in the Complex Systems for Life Sciences program.
-I'm a bioinformatician, working with everything genomic and transcriptomic related.
+I'm a PhD student at the [University of Turin](https://www.unito.it/), Italy in the Complex Systems for Life Sciences program.
+My PhD is focused on the role of transporters in the physiology of cancer.
+
+I'm very interested in Data Stewardship, FAIR data and in particular FAIR Orchestration.
 
 I'm an author and the maintainer for (almost) all packages in [my laboratory's organization](https://github.com/TCP-Lab).
 
