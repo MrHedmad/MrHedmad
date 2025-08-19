@@ -1,22 +1,6 @@
 ### Hello - I'm Luca
 
-I'm a PhD student at the [University of Turin](https://www.unito.it/), Italy in the Complex Systems for Life Sciences program.
-My PhD is focused on the role of transporters in the physiology of cancer.
-
-I'm very interested in Data Stewardship, FAIR data and in particular FAIR Orchestration.
-
-I'm an author and the maintainer for (almost) all packages in [my laboratory's organization](https://github.com/TCP-Lab).
-
-If you want to learn more about me, take a look at [my ABOUT page](https://mrhedmad.github.io/blog/about/).
-It contains more information on what I do, as well as my Curriculum Vitae and publication lists.
-
-I really like collaborating with others. If you want to collaborate, check the CONTRIBUTING files
-in the repository for the project you want to contribute to, or contact me directly!
-
-I administrate [bioinfo.ds](https://discord.com/invite/arPBahn8N6), a bioniformatics-centered community on Discord.
-
-### 📨 Contact Me
-All my contact information lives in [my linktree](https://linktr.ee/mrhedmad). I strive to keep it up-to-date!
+I'm a PhD student at the university of Torino. You can learn more about me on my hub website, [hedmad.eu](https://hedmad.eu/).
 
 ## My projects
 This is a (possibly incomplete) list of my finished, abandoned (💀) and current (🚧) projects.
